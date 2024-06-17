@@ -1,0 +1,11 @@
+require:
+  - standard
+
+AllCops:
+  NewCops: enable
+
+Style/Documentation:
+  Enabled: false
+
+Metrics:
+  Enabled: false
